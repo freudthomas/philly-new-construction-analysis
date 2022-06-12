@@ -1,1 +1,3 @@
 # philly-new-construction-analysis
+
+Getting a clear idea of construction activity in a city is often a challenge. In this project, I analyze which areas in Philadelphia are receiving the most construction activity. Administrative data from the City, such as building permits, property assessment history, and data from the Census Bureau, is utilized to map residential construction activity. The final result is an interactive [web app](https://freudthomas.shinyapps.io/a_changing_city/) analyzing building permits and new construction activity by demographic factors such as unemployment, poverty, and minority rates.
